@@ -1,0 +1,6 @@
+1 Program to print your name, roll no, section and branch in separate lines. 
+2. Program to print the corresponding grade for the given mark using if..else statement in Java 
+3. Program to print the corresponding week day name for the given day no using switch..case statement in Java. 
+4. Program to print the corresponding month name for the given month  no using switch..case statement in Java 
+5. Program to check a user entered number is palindrome or not. 
+6. Write a program in Java to take first name and last name from user and print both in one line as last name followed by first name.
